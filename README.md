@@ -2,7 +2,6 @@
 
 eTicket Admin is a web application designed to streamline ticket management for events and venues. It provides a user-friendly interface for administrators to manage and organize tickets efficiently.
 
-![Screenshot](screenshot.png)
 
 ## Features
 
